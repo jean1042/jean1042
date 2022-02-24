@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... <br> Megazone Cloud ```CloudONE team``` as a __```Cloud backend engineer```__ , and the open source contributor <br></br>
+- 🔭 I’m currently working on ... <br> VMware Korea ```Solution Engineering Team``` as a __```Solution engineer```__ , and the open source contributor <br></br>
 - 💬 Ask me about ... <br>__```AWS```__ && __```Microsoft Azure```__ && __```Kubernetes```<br></br>
 - 📫 How to reach me: ...  ✉️<u>```parkjiyoon1042@gmail.com```</u> or [[Jiyoon's Blog]](https://velog.io/@jean1042)<br></br>
 - 🌱 I’m currently interested in ... <br> ```Python``` , ```Cloud Computing```, ```Kubernetes```, and ```Docker``` <br>
